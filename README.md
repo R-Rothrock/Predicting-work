@@ -1,2 +1,2 @@
 # Predicting-work
-Linear Regression Prediction as to when my brother works.
+Simple linear regression model regarding data as to when my brother works.
