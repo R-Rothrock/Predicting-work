@@ -48,6 +48,7 @@ NUMERIC_COLUMNS    = [
     "work",
     "month",
     "day",
+    "holiday"
 ]
 
 feature_columns = get_feature_column(CATEGORICAL_COLUMNS,
