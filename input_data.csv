@@ -1,4 +1,4 @@
-id,work,month,day,day of the week,holiday
+id,work,month,day,day_of_week,holiday
 1,0,12,28,Wednesday,0
 2,1,12,29,Thursday,0
 3,1,12,30,Friday,0
