@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-id,work,month,day,day_of_week,holiday
-1,0,12,28,Wednesday,0
-2,1,12,29,Thursday,0
-3,1,12,30,Friday,0
-4,1,12,31,Saturday,0
-5,0,1,1,Sunday,1
-6,0,1,2,Monday,0
-=======
 id,work,month,day,day of the week,holiday
 1,0,12,25,Sunday,1
 2,0,12,26,Monday,0
@@ -17,4 +8,3 @@ id,work,month,day,day of the week,holiday
 7,1,12,31,Saturday,0
 8,0,1,1,Sunday,1
 9,0,1,2,Monday,0
->>>>>>> 3ee084d3533ccbc4d25cdbaf73b22d290fd9d359
