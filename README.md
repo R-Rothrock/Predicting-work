@@ -16,4 +16,9 @@ model is stored in `model.ipynb`
 ## Results
 With only two weeks of data for training, and two columns pasted into the testing data, I
 got the following ammount of loss reduction per epoch:
-![Total loss graph](https://github.com/R-Rothrock/Predicting-work/blob/main/assets/asset1.png)
+![Total loss graph](https://raw.githubusercontent.com/R-Rothrock/Predicting-work/408abbda67e4577b7d6352b3279c0336814d44e6/assets/asset1.png)
+I will be sure to continue adding data as time passes.
+
+### info
+- author: Roan Rothrock
+- email: roan.rothrock@hotmail.com
