@@ -18,7 +18,7 @@ As it currently stands, I still have very little data, and I have two training d
 
 Below is the total loss per epoch.
 
-![Total loss graph](https://raw.githubusercontent.com/R-Rothrock/Predicting-work/408abbda67e4577b7d6352b3279c0336814d44e6/assets/asset2.png)
+![Total loss graph](https://github.com/R-Rothrock/Predicting-work/blob/f8c8c7f970d19d033a62a0fc8097dc8970bb31d0/assets/asset2.png)
 
 Before the last week of data had been added to the model, this was my loss calculation by epoch.
 
