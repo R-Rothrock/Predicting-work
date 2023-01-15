@@ -14,10 +14,15 @@ techniques in order to analyze and predict my brother's schedule. My linear regr
 model is stored in `model.ipynb`
 
 ## Results
-With only two weeks of data for training, and two columns pasted into the testing data, I
-got the following ammount of loss reduction per epoch:
+As it currently stands, I still have very little data, and I have two training data columns for every testing data column. I'm confused, though, how I managed to be 120% incorrect on the second epoch. If I had you guess a number I had thought of between 1 and 10 on 11 different occasions, you _should_ get about 1, maybe 0. How, though, would you get 120% of the guesses wrong?
 
-![Total loss graph](https://raw.githubusercontent.com/R-Rothrock/Predicting-work/408abbda67e4577b7d6352b3279c0336814d44e6/assets/asset1.png)
+Below is the total loss per epoch.
+
+![Total loss graph](https://raw.githubusercontent.com/R-Rothrock/Predicting-work/408abbda67e4577b7d6352b3279c0336814d44e6/assets/asset2.png)
+
+Before the last week of data had been added to the model, this was my loss calculation by epoch.
+
+![Previous loss graph](https://raw.githubusercontent.com/R-Rothrock/Predicting-work/408abbda67e4577b7d6352b3279c0336814d44e6/assets/asset1.png)
 
 I will be sure to continue adding data as time passes.
 
