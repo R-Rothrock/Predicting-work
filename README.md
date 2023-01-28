@@ -14,16 +14,24 @@ techniques in order to analyze and predict my brother's schedule. My linear regr
 model is stored in `model.ipynb`
 
 ## Results
-As it currently stands, I still have very little data, and I have two training data columns for every testing data column.
+As it currently stands, I still have very little data, and I have two training data
+columns for every testing data column.
+
 Below is the total loss per epoch.
 
-![Total loss graph](https://github.com/R-Rothrock/Predicting-work/blob/f8c8c7f970d19d033a62a0fc8097dc8970bb31d0/assets/asset2.png)
+![Total loss graph]()
 
 Before the last week of data had been added to the model, this was my loss calculation by epoch.
 
-![Previous loss graph](https://raw.githubusercontent.com/R-Rothrock/Predicting-work/408abbda67e4577b7d6352b3279c0336814d44e6/assets/asset1.png)
+![Previous loss graph](https://github.com/R-Rothrock/Predicting-work/blob/f8c8c7f970d19d033a62a0fc8097dc8970bb31d0/assets/asset2.png)
 
 I will be sure to continue adding data as time passes.
+
+NOTE
+---
+I used `tf.estimator.LinearClassifier` which doesn't have a method of getting data for
+every epoch, unless, of course, you used it the way I did, which isn't very pretty.
+I also couldn't seem to find a working method for suppressing the output.
 
 ### info
 - author: Roan Rothrock

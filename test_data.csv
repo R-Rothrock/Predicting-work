@@ -9,5 +9,12 @@ work,month,day,day_of_week,holiday
 0,1,10,Tuesday,0
 0,1,11,Wednesday,0
 0,12,25,Sunday,1
-
+1,1,25,Wednesday,0
+0,1,26,Thursday,0
+1,1,27,Friday,0
+0,1,18,Wednesday,0
+1,1,19,Thursday,0
+1,1,20,Friday,0
+0,1,21,Saturday,0
+0,1,22,Sunday,0
 
