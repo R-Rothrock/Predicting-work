@@ -28,3 +28,9 @@ work,month,day,day_of_week,holiday
 1,1,20,Friday,0
 0,1,21,Saturday,0
 0,1,22,Sunday,0
+0,1,23,Monday,0
+0,1,24,Tuesday,0
+1,1,25,Wednesday,0
+0,1,26,Thursday,0
+1,1,27,Friday,0
+1,1,28,Saturday,0
