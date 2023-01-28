@@ -19,7 +19,7 @@ columns for every testing data column.
 
 Below is the total loss per epoch.
 
-![Total loss graph]()
+![Total loss graph](https://github.com/R-Rothrock/Predicting-work/blob/044b2d1780431059592e31ec455b02b8de1892b2/assets/asset3.png)
 
 Before the last week of data had been added to the model, this was my loss calculation by epoch.
 
