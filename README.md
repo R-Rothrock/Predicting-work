@@ -25,7 +25,11 @@ Before the last week of data had been added to the model, this was my loss calcu
 
 ![Previous loss graph](https://github.com/R-Rothrock/Predicting-work/blob/f8c8c7f970d19d033a62a0fc8097dc8970bb31d0/assets/asset2.png)
 
-I will be sure to continue adding data as time passes.
+I will be sure to continue adding data as time passes. In the meantime, though, I seem
+to be getting marginally worse results. If you take the time to look in the `./assets`
+directory, you can reference `asset1.png` as the results of the first week of data,
+`asset2.png` for the next week, etc. This latest week it took over 70 epochs to get a
+loss of less than %40.
 
 NOTE
 ---
