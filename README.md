@@ -14,22 +14,13 @@ techniques in order to analyze and predict my brother's schedule. My linear regr
 model is stored in `model.ipynb`
 
 ## Results
-As it currently stands, I still have very little data, and I have two training data
-columns for every testing data column.
+I don't have an incredible amount of data, so I'm not running too many epochs as to not
+overfit the model to the data. All in all, though, it's looking pretty good. Note: the
+amount of the testing data is half of the input data.
 
-Below is the total loss per epoch.
+Accuracy as of this week's data:
 
-![Total loss graph](https://github.com/R-Rothrock/Predicting-work/blob/044b2d1780431059592e31ec455b02b8de1892b2/assets/asset3.png)
-
-Before the last week of data had been added to the model, this was my loss calculation by epoch.
-
-![Previous loss graph](https://github.com/R-Rothrock/Predicting-work/blob/f8c8c7f970d19d033a62a0fc8097dc8970bb31d0/assets/asset2.png)
-
-I will be sure to continue adding data as time passes. In the meantime, though, I seem
-to be getting marginally worse results. If you take the time to look in the `./assets`
-directory, you can reference `asset1.png` as the results of the first week of data,
-`asset2.png` for the next week, etc. This latest week it took over 70 epochs to get a
-loss of less than %40.
+![Accuracy is at 90% after only 10 epochs.]()
 
 NOTE
 ---
