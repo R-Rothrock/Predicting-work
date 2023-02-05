@@ -20,7 +20,7 @@ amount of the testing data is half of the input data.
 
 Accuracy as of this week's data:
 
-![Accuracy is at 90% after only 10 epochs.]()
+![Accuracy is at 90% after only 10 epochs.](https://github.com/R-Rothrock/Predicting-work/blob/b43649df8e3de0199c56c4c0726bc58639ccb0b0/assets/this_week_accuracy.png)
 
 NOTE
 ---
