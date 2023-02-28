@@ -2,6 +2,11 @@
 Simple linear regression model regarding data as to when my brother works. Doesn't have
 very much data, but I'm done adding any more.
 
+NOTE
+---
+
+I'm no longer adding any data. This was a crash course in linear regression, and I'm done.
+
 
 ## Abstract
 My brother has a very unpredictable schedule. He claims that it, in no way, could be
